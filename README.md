@@ -8,6 +8,7 @@ This project was cloned from the [Angular Seed](https://github.com/angular/angul
 
 * [Mocha](https://mochajs.org/) test framework
 * [Chai](http://chaijs.com/) assertion library
+* [Sinon](http://sinonjs.org/) mocking library
 
 ### Test examples
 
