@@ -14,14 +14,21 @@ module.exports = function(config) {
 
     autoWatch: true,
 
-    frameworks: ['mocha'],
+    frameworks: ['mocha', 'sinon-chai'],
 
     browsers: ['Chrome'],
+
+    client: {
+      mocha: {
+        reporter: 'html'
+      }
+    },
 
     plugins: [
       'karma-chrome-launcher',
       'karma-firefox-launcher',
-      'karma-mocha'
+      'karma-mocha',
+      'karma-sinon-chai'
     ]
 
   });

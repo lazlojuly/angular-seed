@@ -7,6 +7,7 @@ This project was cloned from the [Angular Seed](https://github.com/angular/angul
 ### Custom test-stack (mocha-sinon-chai)
 
 * [Mocha](https://mochajs.org/) test framework
+* [Chai](http://chaijs.com/) assertion library
 
 ### Test examples
 
