@@ -2,7 +2,7 @@
 
 ## Notable deviations from the original skeleton
 
-This project was cloned from the [Angular Seed](https://github.com/angular/angular-seed-karma-mocha-sinon-chai/) application skeleton.
+This project was cloned from the [Angular Seed](https://github.com/angular/angular-seed) application skeleton.
 
 ### Custom test-stack (mocha-sinon-chai)
 
