@@ -1,4 +1,4 @@
-# angular-seed-karma-mocha-sinon-chai-mocha-sinon-chai
+# angular-seed-karma-mocha-sinon-chai
 
 This project was cloned from the [Angular Seed](https://github.com/angular/angular-seed-karma-mocha-sinon-chai/) application skeleton.
 
