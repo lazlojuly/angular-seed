@@ -10,9 +10,14 @@ This project was cloned from the [Angular Seed](https://github.com/angular/angul
 * [Chai](http://chaijs.com/) assertion library
 * [Sinon](http://sinonjs.org/) mocking library
 
-### Test examples
+### Additional example code
 
-* TODO
+* components/list - a simple list controller with mocha tests
+
+### Todos
+
+* Write mocha tests for existing components, views etc
+
 
 ## Introduction
 
