@@ -1,8 +1,8 @@
 # angular-seed-karma-mocha-sinon-chai
 
-This project was cloned from the [Angular Seed](https://github.com/angular/angular-seed-karma-mocha-sinon-chai/) application skeleton.
-
 ## Notable deviations from the original skeleton
+
+This project was cloned from the [Angular Seed](https://github.com/angular/angular-seed-karma-mocha-sinon-chai/) application skeleton.
 
 ### Custom test-stack (mocha-sinon-chai)
 
@@ -12,8 +12,9 @@ This project was cloned from the [Angular Seed](https://github.com/angular/angul
 
 ### Test examples
 
-* TODO!
+* TODO
 
+## Introduction
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
